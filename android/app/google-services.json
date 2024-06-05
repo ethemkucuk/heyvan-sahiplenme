@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "332382928351",
+    "project_id": "satinalmasahiplen-3188e",
+    "storage_bucket": "satinalmasahiplen-3188e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332382928351:android:e696664c21d4797c2e986a",
+        "android_client_info": {
+          "package_name": "com.example.sokakhayvanlar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD7EjAQEVoPg8YBo2UVOIceRbMIw0qLvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
